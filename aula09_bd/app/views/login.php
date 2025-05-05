@@ -16,7 +16,7 @@
                 <br><div class="button"><button type="submit">Submeter</button></div>
                 <div class="button2"><button type="reset">Limpar</button></div>
                 </div>
-            
+            </div>
     </div>
 </div>
 </form>
