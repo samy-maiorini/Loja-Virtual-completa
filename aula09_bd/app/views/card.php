@@ -1,7 +1,7 @@
 <?php
 require_once('app\model\produtoDAO.php');
 
-// Verificar se há produtos
+// Verificar se tem produtos
 if ($produtos->num_rows > 0)
 {
     while ($produto = $produtos->fetch_assoc())
